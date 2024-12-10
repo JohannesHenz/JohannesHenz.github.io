@@ -56,7 +56,7 @@ function App() {
               href="mailto:email@example.com"
               className="text-blue-500 underline"
             >
-              email@example.com
+              johenz@protonmail.com
             </a>
             .
           </p>
@@ -65,7 +65,7 @@ function App() {
 
       <footer className="p-4 bg-gray-200 text-center">
         <p className="text-gray-700">
-          &copy; {new Date().getFullYear()} My Name
+          &copy; {new Date().getFullYear()} Johannes Henz
         </p>
       </footer>
     </div>
