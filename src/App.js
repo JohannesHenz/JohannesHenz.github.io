@@ -53,7 +53,7 @@ function App() {
           <p className="text-gray-800">
             Feel free to reach out to me at{" "}
             <a
-              href="mailto:email@example.com"
+              href="mailto:johenz@protonmail.com"
               className="text-blue-500 underline"
             >
               johenz@protonmail.com
