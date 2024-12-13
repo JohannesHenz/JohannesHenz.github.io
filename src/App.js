@@ -23,9 +23,8 @@ function App() {
         <section id="about" className="mb-16">
           <h2 className="text-2xl font-semibold mb-4">About Me</h2>
           <p className="text-gray-800">
-            I’m a passionate software developer with experience in React,
-            Node.js, and modern web technologies. I love creating performant and
-            intuitive user interfaces.
+            I'm a Computer Science Student who is currently looking for an IT
+            Internship. I am proficient in many 
           </p>
         </section>
 
@@ -34,9 +33,13 @@ function App() {
           <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             {/* Example project cards */}
             <div className="bg-white p-4 rounded shadow hover:shadow-lg transition">
-              <h3 className="text-xl font-bold">Project One</h3>
+              <h3 className="text-xl font-bold">MMAM</h3>
               <p className="text-gray-700">
                 A brief description of this awesome project.
+                <br></br>
+                <a href="https://github.com/JohannesHenz/mmam">
+                  Link to the Github
+                </a>
               </p>
             </div>
             <div className="bg-white p-4 rounded shadow hover:shadow-lg transition">
